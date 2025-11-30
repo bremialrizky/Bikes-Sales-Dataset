@@ -19,7 +19,7 @@ The dataset used is containing information about product sales and transactions 
 
 In this project, I performed several key data analysis steps:
 
-  **Data Cleaning & Transformation**: Using Pandas to cleaning the data drop null value, add new column like day name, then using SQL to 
+  **Data Cleaning & Transformation**: Using Pandas for cleaning the data drop null value, add new column like day name, then using SQL for analysis and calculated key metrics.
     
    **Key Performance Indicators (KPIs)**: Calculating important metrics such as total revenue, average operational value, total sold, gross merchant value, and average order value.
     
