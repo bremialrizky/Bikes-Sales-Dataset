@@ -1,7 +1,7 @@
 # Bikes-Sales-Dataset
 **1. Project Preview**
 
-This project aims to analyze bikes sales data from 2011-2016. The main objective of this analysis is to identify trends, top-selling products, and the most frequently used ingredients, in order to provide business insights that can support decision-making.
+This project aims to analyze bikes sales data from 2011-2016. The main objective of this analysis is to identify trends and top-selling products in order to provide business insights that can support decision-making.
 
 **2. Tools & Technology**
 
