@@ -39,6 +39,4 @@ Here are a few of the key insights presented in the interactive dashboard:
    
    **- Peak Months**: The Highest Sales occur during the June and December, where this is a holiday month.
 
-   
-
-
+   <img width="1186" height="665" alt="Visualisasi FIX" src="https://github.com/user-attachments/assets/ca244802-c645-4abf-b303-900b2a57c81d" />
